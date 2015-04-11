@@ -1,0 +1,2 @@
+# nogo
+golang test cases
